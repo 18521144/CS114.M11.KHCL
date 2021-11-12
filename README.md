@@ -1,5 +1,5 @@
 # CS114.M11.KHCL # CS114.M11
-- Mã lớp: CS114.M11, M11.KHCL
+- Mã lớp: CS114.M11.KHCL
 - Họ tên - MSSV:
   + Nguyễn Hữu Nghĩa - 18521144
   + Trần Ngọc Sương - 18521353
